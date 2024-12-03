@@ -27,13 +27,3 @@ This shows the interface to add a new recipe by the user.
 ![Screenshot 2024-12-03 121800](https://github.com/user-attachments/assets/d020b39a-fc5a-48bc-9a97-68bc7379127d)
 
 
-
-
-
-
-
-<h2>Links</h2>
-
-<ul>
-  <li>Demo: <a href="https://recipecloud.netlify.app/" target="_blank">https://recipecloud.netlify.app/</a></li>
-</ul>
