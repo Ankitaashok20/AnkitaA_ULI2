@@ -13,6 +13,18 @@ This web application is built using HTML, CSS3, SASS, JavaScript, NPM, Parcel.
 
 ![Screenshot 2024-12-03 121634](https://github.com/user-attachments/assets/7244f564-9285-4b78-81a8-47f6fb0e2ff0)
 
+![Screenshot 2024-12-03 121714](https://github.com/user-attachments/assets/fddd833d-ff2d-4420-b431-c50bb1ae795e)
+
+![Screenshot 2024-12-03 121722](https://github.com/user-attachments/assets/bed17846-a74a-4a35-8664-5db2dae8d440)
+
+![Screenshot 2024-12-03 121749](https://github.com/user-attachments/assets/a879168c-5936-46d6-a5d4-a3bd1dc84861)
+
+![Screenshot 2024-12-03 121800](https://github.com/user-attachments/assets/d020b39a-fc5a-48bc-9a97-68bc7379127d)
+
+
+
+
+
 
 
 <h2>Links</h2>
